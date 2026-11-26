@@ -1,0 +1,11 @@
+# Local dependencies and generated checks
+**/node_modules/
+**/test-results/
+**/playwright-report/
+**/test-output/
+**/artifacts/
+**/*.tsbuildinfo
+**/.vite/
+.DS_Store
+Thumbs.db
+*.log
